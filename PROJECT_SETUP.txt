@@ -1,0 +1,4 @@
+Ce dossier contient le code source Flutter (dossier lib + pubspec.yaml).
+Pour générer les dossiers natifs Android/iOS, exécuter à la racine :
+  flutter create . --platforms android,ios
+Puis : flutter pub get
